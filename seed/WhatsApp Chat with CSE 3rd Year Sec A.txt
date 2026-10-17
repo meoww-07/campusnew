@@ -1,0 +1,100 @@
+20/09/26, 8:02 pm - Messages and calls are end-to-end encrypted. No one outside of this chat, not even WhatsApp, can read or listen to them. Tap to learn more.
+20/09/26, 8:02 pm - Riya Sharma created group "CSE 3rd Year Sec A"
+20/09/26, 8:03 pm - Riya Sharma added Arjun Mehta, Priya Nair, Rohan Das, Sneha Iyer, Karthik R, Ananya Gupta
+20/09/26, 8:05 pm - Riya Sharma: Hi all! This is the official group for Sec A, 5th sem. Please keep it for academic stuff only 🙏
+20/09/26, 8:06 pm - Arjun Mehta: 👍
+20/09/26, 8:07 pm - Sneha Iyer: Thanks Riya
+21/09/26, 10:14 am - Riya Sharma: Timetable for this semester:
+Mon - DBMS, OS, CN lab (2-5pm)
+Tue - Compiler Design, SE, DBMS lab
+Wed - OS, CN, Library hour
+Thu - DBMS, Compiler Design, SE
+Fri - OS tutorial, CN, Mentoring
+21/09/26, 10:20 am - Karthik R: Is CN lab in Lab 4 or Lab 2?
+21/09/26, 10:22 am - Riya Sharma: Lab 4, second floor of the CSE block
+21/09/26, 6:45 pm - Rohan Das: <Media omitted>
+21/09/26, 6:45 pm - Rohan Das: anyone going to the canteen? 😂
+22/09/26, 9:30 am - Prof. Kulkarni: Dear students, the DBMS course textbook is "Database System Concepts" by Silberschatz, 7th edition. Chapters 1-7 are for the midsem.
+22/09/26, 9:41 am - Priya Nair: Sir, will normalization be included?
+22/09/26, 9:45 am - Prof. Kulkarni: Yes, up to BCNF. 3NF and BCNF decomposition questions are important.
+23/09/26, 4:10 pm - Ananya Gupta: Can someone share the OS slides from today?
+23/09/26, 4:12 pm - Sneha Iyer: <Media omitted>
+23/09/26, 4:12 pm - Ananya Gupta: Thank youuu
+24/09/26, 11:05 am - Riya Sharma: OS Assignment 3 (Process Scheduling + Deadlocks) is uploaded on Moodle.
+Deadline: 19 October, 11:59 pm.
+Submit as a single PDF, handwritten scans are allowed.
+24/09/26, 11:07 am - Arjun Mehta: 19th October?? that's so far, nice
+24/09/26, 11:08 am - Rohan Das: famous last words
+25/09/26, 3:30 pm - Riya Sharma: Midsem schedule circular is out, sharing the PDF. DBMS is on 21 Oct, 10am in LH-3. OS is on 22 Oct.
+25/09/26, 3:31 pm - Riya Sharma: <Media omitted>
+25/09/26, 3:35 pm - Karthik R: when is CN midsem?
+25/09/26, 3:36 pm - Riya Sharma: CN is on 26 Oct, check the PDF for all subjects
+26/09/26, 7:50 pm - Sneha Iyer: Guys the hostel wifi is down again
+26/09/26, 7:51 pm - Rohan Das: when is it ever up lol
+27/09/26, 9:00 am - Prof. Menon: Compiler Design Quiz 1 will be held in the class on Tuesday 29 September. Syllabus: lexical analysis and regular expressions.
+27/09/26, 9:15 am - Priya Nair: Is it open book ma'am?
+27/09/26, 9:20 am - Prof. Menon: No, closed book. 20 minutes, 10 marks.
+28/09/26, 2:00 pm - Ananya Gupta: Does anyone have the CN lab manual? The printout shop is closed
+28/09/26, 2:15 pm - Karthik R: I have a soft copy, will share in a bit
+28/09/26, 2:16 pm - Karthik R: <Media omitted>
+29/09/26, 1:05 pm - Arjun Mehta: CD quiz was easy na?
+29/09/26, 1:06 pm - Sneha Iyer: Q4 on DFA minimization was tricky
+30/09/26, 10:30 am - Riya Sharma: Reminder: SE project team list must be emailed to Dr. Rao by 3 October. 4 members per team, mention the project title.
+30/09/26, 10:45 am - Priya Nair: Our team is Priya, Ananya, Sneha, Karthik - title "Smart Attendance using Face Recognition"
+30/09/26, 10:47 am - Rohan Das: Arjun and me need 2 more members, anyone?
+01/10/26, 8:20 pm - Rohan Das: This message was deleted
+02/10/26, 11:00 am - Riya Sharma: No classes today, Gandhi Jayanti holiday. Enjoy 🎉
+02/10/26, 11:05 am - Arjun Mehta: 🥳🥳
+03/10/26, 6:00 pm - Riya Sharma: Hackathon alert! Smart India Hackathon internal round registration closes on 18 October. Register on the college portal, team of 6, at least one girl member mandatory.
+03/10/26, 6:10 pm - Ananya Gupta: Anyone interested? We need 2 more people
+03/10/26, 6:12 pm - Karthik R: I'm in
+05/10/26, 9:10 AM - Prof. Kulkarni: DBMS assignment 2 on SQL joins and subqueries is due on 12 October. Submit on Moodle.
+05/10/26, 9:30 AM - Sneha Iyer: Sir can we submit .sql files or only PDF?
+05/10/26, 9:33 AM - Prof. Kulkarni: Both. Put the .sql files and output screenshots in one zip.
+06/10/26, 5:40 pm - Rohan Das: anyone has notes of deadlock avoidance (bankers algo)?
+06/10/26, 5:52 pm - Priya Nair: <Media omitted>
+06/10/26, 5:53 pm - Priya Nair: page 3 has a solved example
+07/10/26, 12:30 pm - Riya Sharma: CN Lab viva will be on 24 October (Saturday). Slots:
+Roll 1-20: 9:30 am - 11:00 am
+Roll 21-40: 11:30 am - 1:00 pm
+Roll 41-60: 2:00 pm - 3:30 pm
+Bring your completed lab record, it will be signed during the viva.
+07/10/26, 12:35 pm - Karthik R: Saturday viva 😭
+07/10/26, 12:36 pm - Ananya Gupta: which experiments are in the viva?
+07/10/26, 12:40 pm - Riya Sharma: All experiments 1-8 (socket programming, Wireshark, subnetting)
+08/10/26, 8:15 pm - Arjun Mehta: Bro the mess food today 💀
+08/10/26, 8:16 pm - Rohan Das: paneer was rubber
+09/10/26, 10:00 am - Prof. Rao: SE project: first review is on 30 October. Each team gets 10 minutes. Submit the SRS document by 28 October on Moodle.
+09/10/26, 10:05 am - Priya Nair: Ma'am, is a prototype needed for the first review?
+09/10/26, 10:08 am - Prof. Rao: Not mandatory. SRS, use case diagrams and a basic UI mockup are enough.
+10/10/26, 3:20 pm - Sneha Iyer: Library will remain open till 11 pm from 19 October during the exams, saw the notice board
+10/10/26, 3:25 pm - Ananya Gupta: finally
+11/10/26, 9:45 pm - Rohan Das: is DBMS assignment 2 deadline extended??
+11/10/26, 9:50 pm - Riya Sharma: No extension for DBMS assignment 2, it's still due tomorrow (12 Oct). Sir said late submissions get 50% marks.
+11/10/26, 9:51 pm - Rohan Das: 😭😭
+12/10/26, 9:15 pm - Karthik R: Submitted. Moodle was super slow
+12/10/26, 9:16 pm - Arjun Mehta: same
+13/10/26, 11:30 am - Prof. Kulkarni: Extra class for DBMS on Thursday 15 October, 4 pm in LH-3. We will solve previous year midsem papers.
+13/10/26, 11:40 am - Priya Nair: Thank you sir
+14/10/26, 7:05 pm - Riya Sharma: IMPORTANT UPDATE from the HOD office:
+The DBMS midsem is postponed to 23 October (Friday), 2:00 pm, same venue LH-3.
+Reason: the institute convocation is on 21 October.
+All other midsem dates remain unchanged.
+14/10/26, 7:06 pm - Sneha Iyer: Oh nice, more time to prepare!
+14/10/26, 7:08 pm - Arjun Mehta: so OS is still on 22nd?
+14/10/26, 7:09 pm - Riya Sharma: Yes OS is on 22 Oct as per the original schedule
+15/10/26, 4:05 pm - Ananya Gupta: Extra class started, LH-3 is full
+15/10/26, 6:30 pm - Rohan Das: <Media omitted>
+15/10/26, 6:31 pm - Rohan Das: PYQ solutions from today's extra class
+16/10/26, 10:20 am - Prof. Menon: Compiler Design Quiz 2 will be held next Tuesday in class. Syllabus: parsing (LL(1), LR(0), SLR). 15 marks.
+16/10/26, 10:25 am - Karthik R: Ma'am, will it be in the first hour?
+16/10/26, 10:28 am - Prof. Menon: Yes, 9 am, first 30 minutes of class.
+16/10/26, 1:00 pm - Riya Sharma: Scholarship forms (post-matric) must be submitted to the accounts office by 25 October. Bring income certificate + fee receipt.
+16/10/26, 1:05 pm - Priya Nair: Is the deadline same for the merit scholarship?
+16/10/26, 1:10 pm - Riya Sharma: Yes same date, 25 Oct, check the accounts circular PDF
+16/10/26, 8:40 pm - Sneha Iyer: Anyone up for a study group for OS tomorrow? Library 2nd floor, 10am
+16/10/26, 8:42 pm - Ananya Gupta: Count me in
+16/10/26, 8:43 pm - Karthik R: me too
+17/10/26, 9:00 am - Arjun Mehta: good morning, is the OS assignment really due on the 19th?
+17/10/26, 9:05 am - Riya Sharma: Yes, OS Assignment 3 is due on 19 October 11:59 pm on Moodle. Don't miss it.
+17/10/26, 9:06 am - Arjun Mehta: thanks 🙏

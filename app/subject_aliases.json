@@ -1,0 +1,14 @@
+{
+  "_comment": "Canonical subject name -> other ways students and notices write it. Matching ignores case, course codes (CS301), and words like lab/theory/midsem/exam. Override the path with SUBJECT_ALIASES_PATH.",
+  "DBMS": ["database management systems", "database management system", "database systems", "dbms lab", "db", "cs301"],
+  "OS": ["operating systems", "operating system", "os lab", "cs302"],
+  "CN": ["computer networks", "computer network", "networks", "cn lab", "networking", "cs303"],
+  "Compiler Design": ["cd", "compilers", "compiler construction", "cs304"],
+  "SE": ["software engineering", "se project", "cs305"],
+  "DSA": ["data structures and algorithms", "data structures", "algorithms", "ds", "daa", "design and analysis of algorithms"],
+  "Maths": ["mathematics", "math", "engineering mathematics", "discrete mathematics", "discrete maths", "probability and statistics"],
+  "AI": ["artificial intelligence"],
+  "ML": ["machine learning"],
+  "TOC": ["theory of computation", "automata", "flat", "formal languages and automata theory"],
+  "COA": ["computer organization and architecture", "computer organisation", "computer architecture"]
+}

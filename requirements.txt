@@ -1,0 +1,21 @@
+pydantic>=2.7
+python-dotenv>=1.0
+tzdata  # IANA zones on Windows (zoneinfo)
+sqlite-vec>=0.1.6
+fastapi>=0.110
+uvicorn[standard]>=0.29
+python-multipart>=0.0.9  # file uploads
+python-telegram-bot==21.*
+fastembed>=0.3
+# 1.28's DLL was blocked by Windows Smart App Control on the dev machine; 1.24.14 works everywhere.
+pymupdf==1.24.14
+pytesseract>=0.3.10
+pillow>=10.1
+numpy>=1.24  # OCR preprocessing (also pulled in by fastembed)
+beautifulsoup4>=4.12
+google-api-python-client>=2.100
+google-auth-oauthlib>=1.2
+openai>=1.30
+apscheduler>=3.10,<4
+pytest>=8.0
+httpx>=0.27  # FastAPI TestClient

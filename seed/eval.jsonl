@@ -1,0 +1,25 @@
+{"q": "When is the DBMS midsem now?", "expected": [{"source": "whatsapp", "text": "postponed to 23 October"}]}
+{"q": "What was the original date of the DBMS midsem?", "expected": [{"source": "Midsem_Schedule_Circular.pdf", "text": "CS301 Database Management Systems"}, {"source": "whatsapp", "text": "DBMS is on 21 Oct"}]}
+{"q": "Why was the DBMS exam postponed?", "expected": [{"source": "whatsapp", "text": "convocation"}]}
+{"q": "When is the Operating Systems midsem?", "expected": [{"source": "Midsem_Schedule_Circular.pdf", "text": "CS302 Operating Systems"}, {"source": "whatsapp", "text": "OS is on 22 Oct"}]}
+{"q": "When is OS assignment 3 due?", "expected": [{"source": "whatsapp", "text": "Deadline: 19 October"}, {"source": "whatsapp", "text": "OS Assignment 3 is due on 19 October"}]}
+{"q": "What topics does OS assignment 3 cover?", "expected": [{"source": "whatsapp", "text": "Process Scheduling + Deadlocks"}]}
+{"q": "When is the CN lab viva?", "expected": [{"source": "whatsapp", "text": "CN Lab viva will be on 24 October"}]}
+{"q": "My roll number is 25, what is my viva slot?", "expected": [{"source": "whatsapp", "text": "Roll 21-40"}]}
+{"q": "Which experiments are asked in the CN viva?", "expected": [{"source": "whatsapp", "text": "socket programming"}]}
+{"q": "When is compiler design quiz 2?", "expected": [{"source": "whatsapp", "text": "Quiz 2 will be held next Tuesday"}]}
+{"q": "What is the syllabus for the CD quiz 2?", "expected": [{"source": "whatsapp", "text": "LL(1)"}]}
+{"q": "What is the last date to pay the tuition fee?", "expected": [{"source": "Accounts_and_Library_Circular.pdf", "text": "31 October 2026 through the SBI"}]}
+{"q": "How much is the late fee?", "expected": [{"source": "Accounts_and_Library_Circular.pdf", "text": "Rs. 500 per week"}]}
+{"q": "When do I need to submit the scholarship form?", "expected": [{"source": "whatsapp", "text": "Scholarship forms"}, {"source": "Accounts_and_Library_Circular.pdf", "text": "scholarship application forms"}]}
+{"q": "Deadline for hostel and mess fees?", "expected": [{"source": "Accounts_and_Library_Circular.pdf", "text": "Hostel and mess fees"}]}
+{"q": "What are the library timings during exams?", "expected": [{"source": "Accounts_and_Library_Circular.pdf", "text": "8:00 am to 11:00 pm"}, {"source": "whatsapp", "text": "Library will remain open till 11 pm"}]}
+{"q": "By when must I return library books?", "expected": [{"source": "Accounts_and_Library_Circular.pdf", "text": "returned or renewed by 20 October"}]}
+{"q": "When is the software engineering project first review?", "expected": [{"source": "whatsapp", "text": "first review is on 30 October"}]}
+{"q": "When is the SRS document due?", "expected": [{"source": "whatsapp", "text": "SRS document by 28 October"}]}
+{"q": "What is the hackathon registration deadline?", "expected": [{"source": "whatsapp", "text": "registration closes on 18 October"}]}
+{"q": "Which textbook is used for DBMS?", "expected": [{"source": "whatsapp", "text": "Silberschatz"}]}
+{"q": "Is normalization included in the DBMS midsem?", "expected": [{"source": "whatsapp", "text": "up to BCNF"}]}
+{"q": "Can I use a calculator in the midsem?", "expected": [{"source": "Midsem_Schedule_Circular.pdf", "text": "calculators are allowed only for CS303"}]}
+{"q": "What do I need to bring to the exam hall?", "expected": [{"source": "Midsem_Schedule_Circular.pdf", "text": "ID card is mandatory"}]}
+{"q": "When is the extra DBMS class?", "expected": [{"source": "whatsapp", "text": "Extra class for DBMS on Thursday 15 October"}]}
